@@ -16,4 +16,4 @@ and bank operations like withdrawals, deposits, balance checks, and account clos
 ## Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/bank-management-system-db.git
+   [git clone https://github.com/your-username/bank-management-system-db.git](https://github.com/VamsiReddy773/Bank-Management-System)
